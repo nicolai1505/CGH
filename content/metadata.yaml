@@ -1,26 +1,18 @@
 ---
-title: "Manuscript Title"
+title: "The Uí-Mhaine Copy of Auraicept na nÉces"
 keywords:
-  - markdown
-  - publishing
-  - manubot
+  - Middle Irish
+  - Editing
+  - Textual Criticism
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
+  - github: nicolai1505
+    name: Nicolai Egjar Engesland
+    initials: NEE
     orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
+    twitter: NEngesland
+    email: n.e.engesland@iln.uio.no
     affiliations:
-      - Department of Something, University of Whatever
+      - Classics Department, NUIG / Department of Linguistics and Scandinavian Studies, UIO
     funders:
-      - Grant XXXXXXXX
-  - github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
-    affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
+      - NFR Grant 324 602
