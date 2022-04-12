@@ -41,9 +41,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://nicolai1505.github.io/CGH/" />
   <meta name="citation_pdf_url" content="https://nicolai1505.github.io/CGH/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://nicolai1505.github.io/CGH/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://nicolai1505.github.io/CGH/v/9a22fab4497f80f501ea361d028f26888ad9d5a0/" />
-  <meta name="manubot_html_url_versioned" content="https://nicolai1505.github.io/CGH/v/9a22fab4497f80f501ea361d028f26888ad9d5a0/" />
-  <meta name="manubot_pdf_url_versioned" content="https://nicolai1505.github.io/CGH/v/9a22fab4497f80f501ea361d028f26888ad9d5a0/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://nicolai1505.github.io/CGH/v/1de4bde74577d7762b7a6ed9edbf90c025f24a4e/" />
+  <meta name="manubot_html_url_versioned" content="https://nicolai1505.github.io/CGH/v/1de4bde74577d7762b7a6ed9edbf90c025f24a4e/" />
+  <meta name="manubot_pdf_url_versioned" content="https://nicolai1505.github.io/CGH/v/1de4bde74577d7762b7a6ed9edbf90c025f24a4e/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://nicolai1505.github.io/CGH/v/9a22fab4497f80f501ea361d028f26888ad9d5a0/))
+([permalink](https://nicolai1505.github.io/CGH/v/1de4bde74577d7762b7a6ed9edbf90c025f24a4e/))
 was automatically generated
-from [nicolai1505/CGH@9a22fab](https://github.com/nicolai1505/CGH/tree/9a22fab4497f80f501ea361d028f26888ad9d5a0)
+from [nicolai1505/CGH@1de4bde](https://github.com/nicolai1505/CGH/tree/1de4bde74577d7762b7a6ed9edbf90c025f24a4e)
 on April 12, 2022.
 </em></small>
 
