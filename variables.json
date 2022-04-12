@@ -1,18 +1,17 @@
 {
   "pandoc": {
-    "title": "Manuscript Title",
+    "title": "The Uí-Mhaine Copy of Auraicept na nÉces",
     "keywords": [
-      "markdown",
-      "publishing",
-      "manubot"
+      "Middle Irish",
+      "Editing",
+      "Textual Criticism"
     ],
     "lang": "en-US",
     "date-meta": "2022-04-12",
     "author-meta": [
-      "John Doe",
-      "Jane Roe"
+      "Nicolai Egjar Engesland"
     ],
-    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Manuscript Title\" />\n<meta name=\"citation_title\" content=\"Manuscript Title\" />\n<meta property=\"og:title\" content=\"Manuscript Title\" />\n<meta property=\"twitter:title\" content=\"Manuscript Title\" />\n<meta name=\"dc.date\" content=\"2022-04-12\" />\n<meta name=\"citation_publication_date\" content=\"2022-04-12\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"John Doe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"twitter:creator\" content=\"@johndoe\" />\n<meta name=\"citation_author\" content=\"Jane Roe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_institution\" content=\"Department of Whatever, University of Something\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<link rel=\"canonical\" href=\"https://nicolai1505.github.io/CGH/\" />\n<meta property=\"og:url\" content=\"https://nicolai1505.github.io/CGH/\" />\n<meta property=\"twitter:url\" content=\"https://nicolai1505.github.io/CGH/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://nicolai1505.github.io/CGH/\" />\n<meta name=\"citation_pdf_url\" content=\"https://nicolai1505.github.io/CGH/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://nicolai1505.github.io/CGH/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://nicolai1505.github.io/CGH/v/1de4bde74577d7762b7a6ed9edbf90c025f24a4e/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://nicolai1505.github.io/CGH/v/1de4bde74577d7762b7a6ed9edbf90c025f24a4e/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://nicolai1505.github.io/CGH/v/1de4bde74577d7762b7a6ed9edbf90c025f24a4e/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
+    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"The Uí-Mhaine Copy of Auraicept na nÉces\" />\n<meta name=\"citation_title\" content=\"The Uí-Mhaine Copy of Auraicept na nÉces\" />\n<meta property=\"og:title\" content=\"The Uí-Mhaine Copy of Auraicept na nÉces\" />\n<meta property=\"twitter:title\" content=\"The Uí-Mhaine Copy of Auraicept na nÉces\" />\n<meta name=\"dc.date\" content=\"2022-04-12\" />\n<meta name=\"citation_publication_date\" content=\"2022-04-12\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Nicolai Egjar Engesland\" />\n<meta name=\"citation_author_institution\" content=\"Classics Department, NUIG / Department of Linguistics and Scandinavian Studies, UIO\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"twitter:creator\" content=\"@NEngesland\" />\n<link rel=\"canonical\" href=\"https://nicolai1505.github.io/CGH/\" />\n<meta property=\"og:url\" content=\"https://nicolai1505.github.io/CGH/\" />\n<meta property=\"twitter:url\" content=\"https://nicolai1505.github.io/CGH/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://nicolai1505.github.io/CGH/\" />\n<meta name=\"citation_pdf_url\" content=\"https://nicolai1505.github.io/CGH/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://nicolai1505.github.io/CGH/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://nicolai1505.github.io/CGH/v/cf298d1bc172d766eb0583993e28b452b32619d2/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://nicolai1505.github.io/CGH/v/cf298d1bc172d766eb0583993e28b452b32619d2/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://nicolai1505.github.io/CGH/v/cf298d1bc172d766eb0583993e28b452b32619d2/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
     "bibliography": [
       "content/manual-references.json"
     ],
@@ -26,46 +25,27 @@
     "randomize_author_order": false,
     "authors": [
       {
-        "github": "johndoe",
-        "name": "John Doe",
-        "initials": "JD",
+        "github": "nicolai1505",
+        "name": "Nicolai Egjar Engesland",
+        "initials": "NEE",
         "orcid": "XXXX-XXXX-XXXX-XXXX",
-        "twitter": "johndoe",
-        "email": "john.doe@something.com",
+        "twitter": "NEngesland",
+        "email": "n.e.engesland@iln.uio.no",
         "affiliations": [
-          "Department of Something, University of Whatever"
+          "Classics Department, NUIG / Department of Linguistics and Scandinavian Studies, UIO"
         ],
         "funders": [
-          "Grant XXXXXXXX"
+          "NFR Grant 324 602"
         ],
         "affiliation_numbers": [
           1
-        ]
-      },
-      {
-        "github": "janeroe",
-        "name": "Jane Roe",
-        "initials": "JR",
-        "orcid": "XXXX-XXXX-XXXX-XXXX",
-        "email": "jane.roe@whatever.edu",
-        "affiliations": [
-          "Department of Something, University of Whatever",
-          "Department of Whatever, University of Something"
-        ],
-        "affiliation_numbers": [
-          1,
-          2
         ]
       }
     ],
     "affiliations": [
       {
-        "affiliation": "Department of Something, University of Whatever",
+        "affiliation": "Classics Department, NUIG / Department of Linguistics and Scandinavian Studies, UIO",
         "affiliation_number": 1
-      },
-      {
-        "affiliation": "Department of Whatever, University of Something",
-        "affiliation_number": 2
       }
     ],
     "ci_source": {
@@ -73,19 +53,19 @@
       "repo_slug": "nicolai1505/CGH",
       "repo_owner": "nicolai1505",
       "repo_name": "CGH",
-      "commit": "1de4bde74577d7762b7a6ed9edbf90c025f24a4e",
-      "triggering_commit": "1de4bde74577d7762b7a6ed9edbf90c025f24a4e",
-      "build_url": "https://github.com/nicolai1505/CGH/commit/1de4bde74577d7762b7a6ed9edbf90c025f24a4e/checks",
-      "job_url": "https://github.com/nicolai1505/CGH/actions/runs/2153821919"
+      "commit": "cf298d1bc172d766eb0583993e28b452b32619d2",
+      "triggering_commit": "cf298d1bc172d766eb0583993e28b452b32619d2",
+      "build_url": "https://github.com/nicolai1505/CGH/commit/cf298d1bc172d766eb0583993e28b452b32619d2/checks",
+      "job_url": "https://github.com/nicolai1505/CGH/actions/runs/2153861970"
     },
     "html_url": "https://nicolai1505.github.io/CGH/",
     "pdf_url": "https://nicolai1505.github.io/CGH/manuscript.pdf",
-    "html_url_versioned": "https://nicolai1505.github.io/CGH/v/1de4bde74577d7762b7a6ed9edbf90c025f24a4e/",
-    "pdf_url_versioned": "https://nicolai1505.github.io/CGH/v/1de4bde74577d7762b7a6ed9edbf90c025f24a4e/manuscript.pdf",
+    "html_url_versioned": "https://nicolai1505.github.io/CGH/v/cf298d1bc172d766eb0583993e28b452b32619d2/",
+    "pdf_url_versioned": "https://nicolai1505.github.io/CGH/v/cf298d1bc172d766eb0583993e28b452b32619d2/manuscript.pdf",
     "manubot_version": "0.5.2",
     "rootstock_commit": "9a22fab4497f80f501ea361d028f26888ad9d5a0",
     "manuscript_stats": {
-      "word_count": 1410
+      "word_count": 252
     }
   }
 }
