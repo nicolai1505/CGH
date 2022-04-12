@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/nicolai1505/CGH/tree/gh-pages) branch hosts the contents of this directory at <https://nicolai1505.github.io/CGH/>.
-The permalink for this webpage version is <https://nicolai1505.github.io/CGH/v/9a22fab4497f80f501ea361d028f26888ad9d5a0/>.
+The permalink for this webpage version is <https://nicolai1505.github.io/CGH/v/1de4bde74577d7762b7a6ed9edbf90c025f24a4e/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://nicolai1505.github.io/CGH/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`9a22fab4497f80f501ea361d028f26888ad9d5a0`](https://github.com/nicolai1505/CGH/commit/9a22fab4497f80f501ea361d028f26888ad9d5a0).
+[`1de4bde74577d7762b7a6ed9edbf90c025f24a4e`](https://github.com/nicolai1505/CGH/commit/1de4bde74577d7762b7a6ed9edbf90c025f24a4e).
